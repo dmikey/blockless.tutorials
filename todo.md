@@ -1,3 +1,5 @@
+# *** DRAFT ***
+
 # Building a Serverless Todo Application with Blockless
 
 In this tutorial, we will show you how to build a simple todo application using the Blockless Network and a variety of modules and tools. We will cover how to connect to the network using the Blockless CLI, read data from the standard input and environment variables using the memory module, interact with the InterPlanetary File System (IPFS) using the ipfs module, send HTTP requests and receive responses from servers using the http module, and store data in the cloud using the awss3 module.
