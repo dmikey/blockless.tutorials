@@ -349,7 +349,7 @@ $ npm install
 
 - You are now ready to start building your AssemblyScript code in the assembly/index.ts file. You can use the memory, ipfs, http, and awss3 modules to interact with the Blockless Network and build your todo application.
 
-## Get Building! 
+## Get to Building! 
 
 To build the todo application, you will need to use the memory, ipfs, and http modules. You can start by importing these modules in your main AssemblyScript file:
 
